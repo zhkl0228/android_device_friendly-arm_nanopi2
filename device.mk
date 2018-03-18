@@ -16,6 +16,8 @@
 
 LOCAL_PATH := device/friendly-arm/nanopi2
 
+PRODUCT_PACKAGES += su
+
 # kernel
 PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/boot/uImage:boot/uImage
