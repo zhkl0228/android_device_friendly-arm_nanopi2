@@ -44,7 +44,7 @@ $(call inherit-product, device/friendly-arm/nanopi2/device.mk)
 # Discard inherited values and use our own instead.
 PRODUCT_NAME := full_nanopi2
 PRODUCT_DEVICE := nanopi2
-PRODUCT_BRAND := Android
-PRODUCT_MODEL := AOSP on NanoPi 2
-PRODUCT_MANUFACTURER := FriendlyARM (www.arm9.net)
+PRODUCT_BRAND := gzmtx
+PRODUCT_MODEL := NanoPi2
+PRODUCT_MANUFACTURER := FriendlyARM
 
