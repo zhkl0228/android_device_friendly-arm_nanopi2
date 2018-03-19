@@ -17,6 +17,7 @@
 LOCAL_PATH := device/friendly-arm/nanopi2
 
 PRODUCT_PACKAGES += su
+PRODUCT_PACKAGES += XposedBridge
 
 # kernel
 PRODUCT_COPY_FILES += \
